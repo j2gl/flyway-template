@@ -1,0 +1,34 @@
+# Common files by operating systems
+.DS_Store
+.Spotlight-V100
+.Trashes
+.gradle
+ehthumbs.db
+Thumbs.db
+temp/
+
+# Maven
+target/
+
+# Gradle
+.gradle
+
+# Eclipse
+.classpath
+.project
+.settings
+.metadata
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+
+# Executable and other compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.jar
+*.o
+*.so
